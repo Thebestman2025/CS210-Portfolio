@@ -5,7 +5,6 @@ C++ is highly versatile, supporting different paradigms like procedural, object-
 
 Reflection
 Project Summary
-This project solves the problem of [specific problem or goal]. By [explain approach or method], it ensures [desired outcome].
 
 Strengths in the Project
 One of the strengths of this project was my ability to implement complex sorting algorithm (e.g., QuickSort or MergeSort) that efficiently handled large datasets. This demonstrates my ability to apply algorithmic concepts to solve real-world problems effectively.I focused on writing clean and well-documented code by using descriptive variable names, modular functions, and detailed comments. This made the program easier to understand and maintain.I effectively used debugging tools like GDB or integrated debugging features in my IDE to identify and resolve issues quickly, reducing development time and improving program reliability.
